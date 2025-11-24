@@ -1,0 +1,13 @@
+# Core libraries
+opencv-python>=4.8.0
+numpy>=1.26.0
+pillow>=10.0.0
+pyyaml>=6.0
+
+# OCR
+easyocr>=1.7.0
+
+# Utils
+python-dateutil>=2.8.0
+tqdm>=4.66.0
+colorama>=0.4.6
